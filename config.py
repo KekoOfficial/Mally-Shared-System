@@ -1,4 +1,4 @@
-TOKEN = "TU_BOT_TOKEN"
+TOKEN = "8572776700:AAGhxY4tTMJbNeqv2zgK6Pz3sHZNbkM69oI"
 CANAL_DESTINO = "@tu_canal_mally"
 PERFILES_TIKTOK = [
     "https://www.tiktok.com/@usuario1",
